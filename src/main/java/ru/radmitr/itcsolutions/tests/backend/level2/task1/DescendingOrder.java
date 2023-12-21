@@ -1,4 +1,4 @@
-package ru.radmitr.itcsolutions.tests.level2.task1;
+package ru.radmitr.itcsolutions.tests.backend.level2.task1;
 
 import java.util.Arrays;
 
